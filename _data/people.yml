@@ -435,6 +435,10 @@ pgrad-b:
     image: /img/people/arpan.jpg
     bio: Masters student (2017-2019)
     role: pgrad
+pgrad-d:
+    display_name: "Tanya Gautam"
+    bio: Masters student (2018-2020)
+    role: pgrad
 pgrad-c:
     display_name: "Sarika"
     bio: Masters student (2016-2018)
